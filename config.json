@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheuender",
+        "uuid": 336162,
+        "checksum": "rh2fij"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
